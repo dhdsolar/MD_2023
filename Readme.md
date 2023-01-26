@@ -1,5 +1,5 @@
 # Maryland Green Field Suitability Analysis and Siting
-Herein we will document the modeling process for green field site selection and scoring using the Beallsville spot campaign as a case study.
+Herein we document the modeling process for green field site selection and scoring using the Beallsville spot campaign as a case study.
 
 <table>
 <tr>
@@ -99,3 +99,8 @@ This model resulted in 90 parcels with scores between 3 and 9, giving 6 seperate
 ## Model 3: 2023 Workflow <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with refined Weighting and added Parameters
 
 TBD Following team meeting for refining and discussing potential additional parameters
+
+Potential Parameters to include:
+- Land Cover: Whether or not tree clearing of soft-wood trees is viable, or restricted entirely.
+- Aspect: E-W facing slopes are neutral with N facing slopes bad and S facing slopes good.
+- Hydrology: Well drained areas are excellent, areas that drain or flow are less desirable. Sinks are restricted or least desirable.
