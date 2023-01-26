@@ -85,6 +85,7 @@ Below is the general workflow for Model 2. Note the changes in raster values by 
 ![Model 2 Workflow](./src/MD_Model2_Workflow.png)
 
 Models are weighted as the following:
+
 ![Model 2 Weights](./src/Weightings_Model2.png)
 
 Restricted areas recieve 1% to be included in the analysis, but given restricted areas are absolute, the weights greater than 1% are not necessary.
