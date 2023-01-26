@@ -84,3 +84,17 @@ Below is the general workflow for Model 2. Note the changes in raster values by 
 
 ![Model 2 Workflow](./src/MD_Model2_Workflow.png)
 
+Models are weighted as the following:
+![Model 2 Weights](./src/Weightings_Model2.png)
+
+Restricted areas recieve 1% to be included in the analysis, but given restricted areas are absolute, the weights greater than 1% are not necessary.
+
+Slopes are currently set to 30% of the model weight, while distance to feeders is set to the remaining 67% of the model.
+
+This model resulted in 90 parcels with scores between 3 and 9, giving 6 seperate score classes between the 90 parcels.
+
+---
+
+## Model 3: 2023 Workflow <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with refined Weighting and added Parameters
+
+TBD Following team meeting for refining and discussing potential additional parameters
